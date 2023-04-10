@@ -1,0 +1,1 @@
+I seperated the commits for the VSCode section because it wouldn't allow me to switch brances before committing
